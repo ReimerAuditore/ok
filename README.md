@@ -1,2 +1,1 @@
-# ok
-ok
+print "Hola, mundo"
